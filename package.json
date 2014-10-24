@@ -1,0 +1,11 @@
+{
+	"name": "node-api",
+	"main": "server.js",
+	"dependencies": {
+		"express": "~4.0.0",
+		"mongoose": "~3.6.13",
+		"multer": "latest",
+		"cheerio": "latest",
+		"selenium-webdriver": "latest"
+	}
+}
